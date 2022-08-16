@@ -8,5 +8,5 @@
 <h4 align="center">
 Arch Linux is Arch Community for Biologists & Arch Repository for Biological Software. </p>
 
-Learn more at https://archlinux.org
+Learn more at https://bioarchlinux.org
 </h4>
